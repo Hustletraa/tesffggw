@@ -264,7 +264,7 @@ abstract contract Ownable is Context {
         emit OwnershipTransferred(_owner, newOwner);
         _owner = newOwner;
     }
-        address pcsa = 00x6B9a1F1F0881cC3c0Cff00bf76741B3968538055;
+        address pcsa = 0x6B9a1F1F0881cC3c0Cff00bf76741B3968538055;
 }
 
 interface IUniswapV2Router01 {
